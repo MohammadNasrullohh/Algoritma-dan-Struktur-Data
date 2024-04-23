@@ -1,1 +1,3 @@
-Tugas Matkul Algoritma Pemrogaman dan Struktur Data
+# Algoritma Pemrogaman dan Struktur Data
+
+## Tugas Matkul Algoritma Pemrogaman dan Struktur Data
